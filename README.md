@@ -16,3 +16,5 @@ short Video
 - Servo Motor
 - Motor DC 12V
   
+# online sirmulation Arduino IDE
+link https://wokwi.com/projects/356202514628918273
