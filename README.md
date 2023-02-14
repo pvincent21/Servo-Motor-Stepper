@@ -6,8 +6,8 @@ short Video
 
 - Open Arduino IDE all version
 - add libraries in your Arduino IDE --> Skecth -->  include library --> Manage libraries:
-   - #include <Stepper.h>
-   - #include <Servo.h>
+   - Stepper
+   - Servo.h
 
 # Component 
 - Arduino Mega 2560 
